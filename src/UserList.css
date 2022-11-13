@@ -1,0 +1,16 @@
+.UserList{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    column-gap: 50px;
+    margin: 5%;
+}
+.everyuser{
+    background-color: rgb(187, 156, 156);
+    border: 5px solid white;
+    border-radius: 10%;
+    width: 350px;
+    height: 250px;
+    padding: 3%;
+}
